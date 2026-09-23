@@ -1,6 +1,8 @@
 # Lucas Kalell
 
-Desenvolvedor full stack em Curitiba. No dia a dia trabalho com Java e Spring Boot no backend e Flutter no mobile, e venho estudando Angular e React no front-end.
+Desenvolvedor full stack em Curitiba. No dia a dia trabalho com Java e Spring Boot no backend e Flutter no web e no mobile. Na empresa também atuo em projetos internos com React, Node.js e JavaScript.
+
+Para aprofundar o front-end, estou estudando Angular.
 
 Gosto de projetos que resolvem um problema concreto, de preferência com uma parte que roda sozinha: coleta agendada, alerta, bot, integração.
 
@@ -21,8 +23,8 @@ Gestão de oficina mecânica voltada para o cliente, com estimativa de tempo de 
 | Área | Ferramentas |
 |---|---|
 | Backend | Java, Spring Boot, Spring Security, JWT, JPA, JUnit, Maven |
-| Mobile | Flutter, Dart, BLoC |
-| Front-end | Angular, TypeScript, React |
+| Web e mobile | Flutter, Dart, BLoC |
+| JavaScript | React, Node.js, TypeScript, Angular (estudando) |
 | Dados | MySQL, Flyway |
 | Entrega | Git, GitHub Actions, Jenkins |
 
